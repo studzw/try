@@ -1,0 +1,25 @@
+{
+  "name": "try",
+  "version": "1.0.0",
+  "description": "try something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studzw/try.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "studzw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studzw/try/issues"
+  },
+  "homepage": "https://github.com/studzw/try#readme",
+  "dependencies": {
+    "babel-eslint": "^7.1.1"
+  }
+}
